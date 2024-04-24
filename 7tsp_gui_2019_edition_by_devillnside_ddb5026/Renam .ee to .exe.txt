@@ -1,0 +1,2 @@
+Rename '7tsp GUI v0.6(2019).ee' to '7tsp GUI v0.6(2019).exe' & run.
+No installation is required.

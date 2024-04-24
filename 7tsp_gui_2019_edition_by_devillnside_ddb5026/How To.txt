@@ -1,0 +1,14 @@
+1)Run 7TSP GUI.
+
+2)If you encounter an error message stating, "Sorry, 7tsp only works with Windows Se7en!" then proceed with the steps below, otherwise move on to step number 3.
+This is only applicable to WIndows 10 builds.
+  Right click on 7TSP GUI & slect properties.
+  Under the Compatibility tab check the 'Run this program in compatibility mode for:' box
+  From the dropdown menu select Windows 7 & click Apply.
+
+3)Click on Add A Custom Pack & select your desired 7TSP compatible pack. For any Windows 10 builds, you must make sure the icon pack you are attempting to install 
+is compatible & compiled specifically for that build.
+
+4)Click on Start Patching & by default settings 7TSP will create a restore point & install the contents of the pack.
+
+5)Once installation is done, reboot.
